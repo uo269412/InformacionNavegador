@@ -1,0 +1,36 @@
+/*001*/
+body {
+    font-family: "Optima", sans-serif;
+    padding:1em;
+    font-size:1em;
+    text-align: center; 
+    background-color:rgb(255, 255, 255);
+    color:rgb(0, 0, 0);
+}
+/*001*/
+h1 {
+    border-radius: 1em;
+    color:rgb(255, 255, 255);
+    text-transform: uppercase;
+    padding: 80px 10px;
+    text-align: center; 
+    font-size: 200%;
+    background-color: rgb(92, 52, 6);
+    background-position: top right;
+}
+/*001*/
+h2 {
+    color:rgb(116, 77, 33);
+    font-size: 1.5em;
+    text-transform: uppercase;
+}
+/*001*/
+h3 {
+    color:rgb(151, 100, 41);
+    font-size: 1.3em;
+}
+/*001*/
+h4{
+    color:rgb(136, 94, 46);
+    font-size: 1.2em;
+}
